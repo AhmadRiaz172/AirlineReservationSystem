@@ -1,0 +1,1 @@
+JDBC and SQL connector neets to be installed before running program
